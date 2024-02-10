@@ -1,0 +1,83 @@
+nav{
+  width:1500px;
+  display: flex;
+   justify-content: space-between;
+  height: 100px;
+  align-items:center;
+  margin:10 auto;
+}
+.nav-wrapper {
+
+align-items: center;
+display: flex;
+justify-content: space-between;
+height: 50px;
+align-items: flex-start;
+
+}
+nav ul{
+  display: flex;
+  list-style: none;
+  gap: 50px;
+  justify-content: space-between;
+  margin-left: 300px;
+}
+#button{
+  all:unset;
+  padding: 6px;
+  background: red;
+  color:aliceblue;
+  font-size: 500;
+  margin-left: 450px;
+}
+.brand-logo{
+  margin-right:80%;
+ 
+}
+.container{
+  margin:0 auto;
+  max-width: 1300px;
+}
+.hero-content{
+display: flex;
+align-items: center;
+height: 100px;
+}
+
+.hero h1{
+  list-style: none;
+  font:108px;
+  
+}
+.hero-content{
+  display:flex;
+  flex-direction: column;
+  max-width:500px;
+  margin-top: 50px;;
+}
+
+.hero{
+  display: flex;
+  margin-top: 45px;
+}
+.hero-btn{
+  margin-left:2px ;
+  align-items: flex-start;
+  justify-content: space-between;
+ 
+  color:aliceblue;
+  padding-block: 10px;
+}
+.shoes-img{
+  padding-left: 30px;
+}
+#bt{
+  margin-left:20px;
+  align-items:flex-start;
+  justify-items: left;
+  border-radius: 2px;
+  background-color: brown;
+  color: antiquewhite;
+  height: 50px;
+  width: 100px;
+}
